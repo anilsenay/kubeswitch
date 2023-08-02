@@ -1,7 +1,5 @@
 # `kubeswitch`: Lightweight alternative for switching between Kubernetes clusters
 
----
-
 `kubeswitch` is a tool that allows you to switch between Kubernetes clusters in a simple and fast way. It is a lightweight alternative to [kubectx](https://github.com/ahmetb/kubectx/) and [kubeswitch](https://github.com/danielfoehrKn/kubeswitch/)
 
 ![](https://s11.gifyu.com/images/ScuIM.gif)
