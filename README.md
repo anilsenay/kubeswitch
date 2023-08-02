@@ -15,7 +15,7 @@ If you need more features, you should consider using [kubectx](https://github.co
 ##### Go download
 
 ```sh
-go download github.com/anilsenay/kubeswitch
+go install github.com/anilsenay/kubeswitch@latest
 ```
 
 ## Usage
